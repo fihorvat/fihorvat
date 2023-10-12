@@ -24,11 +24,11 @@
 <p>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=fihorvat&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=fihorvat&show_icons=true&hide_border=true&rank_icon=github&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=fihorvat&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api?username=fihorvat&show_icons=true&hide_border=true&rank_icon=github&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=fihorvat" />
